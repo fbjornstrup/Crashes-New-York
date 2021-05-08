@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: About
+title: Information
 ---
 
 This is a website about crashes in NY City
