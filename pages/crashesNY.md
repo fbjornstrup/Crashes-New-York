@@ -7,7 +7,3 @@ This theme is completely free and open source software. You may use it however y
 
 
 
-
-**Illustration of numbers of crashes in the different Boroughs in New York:**
-
-![New York Boroughs](ny2.gif)
