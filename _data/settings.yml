@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
-- {name: 'Data analysis', folder: 'pages', file: 'statistics.html'}
+- {name: 'Data Analysis', folder: 'pages', file: 'statistics.html'}
 - {name: 'Heatmaps', folder: 'pages', file: 'heatmaps.html'}
 - {name: 'Machine Learning Mode', folder: 'pages', file: 'machinelearning.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
