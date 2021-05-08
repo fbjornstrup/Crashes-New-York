@@ -8,11 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
+- {name: 'Statistics over Time', folder: 'pages', file: 'statistics.html'}
 - {name: 'Heatmaps', folder: 'pages', file: 'heatmaps.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Machine Learning Mode', folder: 'pages', file: 'machinelearning.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
-- {name: 'CrashesNY', folder: 'pages', file: 'crashesNY.html'}
 
 # Customize site text
 pagination:
