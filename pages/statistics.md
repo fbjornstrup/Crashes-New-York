@@ -1,5 +1,5 @@
 ---
 layout: misc
-title: Statiscics over Time
+title: Statistics over Time
 ---
 
