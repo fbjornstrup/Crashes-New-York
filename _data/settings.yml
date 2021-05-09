@@ -14,9 +14,9 @@ menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#pagination:
+ # next_page: 'Newer'
+ # previous_page: 'Older'
 
 sharing_button_prompt: 'Feel free to share!'
 
