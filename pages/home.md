@@ -14,7 +14,7 @@ title: Home
 
 **Map showing the occurences of the crashes** 
 
-<iframe src="map_cluster.html"
+<iframe src="mapcluster.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
