@@ -10,7 +10,7 @@ menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
 - {name: 'Data Analysis', folder: 'pages', file: 'statistics.html'}
 - {name: 'Heatmaps', folder: 'pages', file: 'heatmaps.html'}
-- {name: 'Machine Learning Mode', folder: 'pages', file: 'machinelearning.html'}
+- {name: 'Predictive Model', folder: 'pages', file: 'machinelearning.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Customize site text
