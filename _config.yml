@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Car Crashes New York"
 description:	       "..."
-author:              "Frederik Bjornstrup"
+author:              "Frederik Bjornstrup, Benjamin Sondberg & Christian Rasmussen"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
