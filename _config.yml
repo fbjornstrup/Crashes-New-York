@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "New York City Motor Vehicle Collision 
+title:		           "NYC Motor Vehicle Crashes" 
 description:	       "..."
 author:              "Frederik Bjornstrup, Benjamin Sondberg & Christian Rasmussen"
 
