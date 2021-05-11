@@ -8,12 +8,16 @@ Follow the story of traffic collisions in New York, by looking at each annotated
 
 **Illustration of numbers of crashes in the different Boroughs in New York:**
 
+Watch out in Queens, they rank highest in number of crashes! Consider going to Bronx, it is a bit more controlled over there.
+
 ![New York Boroughs](ny2.gif)
 
 
 
 
 **Map showing the occurences of the crashes** 
+
+Play around with the Crash Map. You may be able to find more specific corners or areas that attract crashes.
 
 <iframe src="mapcluster.html"
     sandbox="allow-same-origin allow-scripts"
