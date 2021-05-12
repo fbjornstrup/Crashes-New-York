@@ -37,7 +37,7 @@ When looking at the tendency for the different weekdays, there is a downward goi
 
 
 
-The tendency for the monthly occurences of crashes is very similar in the different boroughs. Against all believe, there is actually the lowest number of occurences in the wintermonths January & February. This might be due to the fact that people drive extra carefull when there is bad weather, snow etc. The highest number of occurences on the other hand is in the summermonths and especially in July. According to different sources [1](https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867) & [2](https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867) this is due to the fact that more inexperienced drivers are on the road, more riders, cyclists and pedestrians share the roads during summertime and more construction work.
+The tendency for the monthly occurences of crashes is very similar in the different boroughs. Against all believe, there is actually the lowest number of occurences in the wintermonths January & February. This might be due to the fact that people drive extra carefull when there is bad weather, snow etc. The highest number of occurences on the other hand is in the summermonths and especially in July. According to different sources [1](https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867) & [2](https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867) this is due to the fact that more inexperienced drivers are on the road, more riders, cyclists and pedestrians share the roads during summertime and there is more construction work.
 
 
 **Monthly plot of collisions**
