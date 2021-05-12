@@ -82,4 +82,5 @@ Furthermore it is not only important to stay away of distracted drivers but the 
 New York is quite famous for their yellow Taxis but statistics show that being in a car crash while driving Taxi in New York has the highest risk of 0.30.
 This is shown in the table below where the risk of being injured is calculated for the 5 vehicle types causing the most crashes.
 
+<img src="ratio.png" width="550" height="450">
 
