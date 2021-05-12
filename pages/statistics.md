@@ -78,7 +78,7 @@ Among these it is especially:
 If you are actually on the road getting from A to B, make sure to be extra careful around drivers looking at their phone. The most common reason why people are injured in car crashes in NY is because a driver of a sedan,  a station wagon or a SUV is distracted from actually driving. 
 
 
-Furthermore it is not only important to stay away of distracted drivers but the vehicle type you are in also plays an important role in your chances of avoiding an injury.
+Furthermore, it is not only important to stay away of distracted drivers but the vehicle type you are in also plays an important role in your chances of avoiding an injury.
 New York is quite famous for their yellow Taxis but statistics show that being in a car crash while driving Taxi in New York has the highest risk of 0.30.
 This is shown in the table below where the risk of being injured is calculated for the 5 vehicle types causing the most crashes.
 
