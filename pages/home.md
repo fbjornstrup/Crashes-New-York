@@ -3,21 +3,22 @@ layout: page
 title: Home
 ---
 
+The following website wants to tell a story about vehicle collissions happening in New York City from 2012 up until now. Hopefully it will give you a further insigt into the serious problem that this contributes to, as well as which area's to avoid and how to behave in traffic. 
 
-Follow the story of traffic collisions in New York, by looking at each annotated graph as you slide down step by step on each site. To begin the story have a look at the first graph, follow the comments and try the interactive functions along the way to achieve the best possible experience of the story. Hopefully you will soon have a better idea of how to avoid a severe car collision in New York.
+
+The following video illustrates the severity of car crashes in the different Boroughs of New York, as it shows the amount of crashes that has happened over the past 10 years. 
 
 **Illustration of numbers of crashes in the different Boroughs in New York:**
 
-Watch out in Queens, they rank highest in number of crashes! Consider going to Bronx, it is a bit more controlled over there.
 
 ![New York Boroughs](ny2.gif)
 
+*Watch out in Queens, as they rank highest in number of crashes! Consider going to Bronx, for a more relaxed environment.*
 
+To begin the story have a look at the following map(*) and try the interactive functions along the way to achieve the best possible experience of the story. Hopefully you will soon have a better idea of where to go if you want to avoid a collision in New York.
 
 
 **Map showing the occurences of the crashes** 
-
-Play around with the Crash Map. You may be able to find more specific corners or areas that attract crashes.
 
 <iframe src="mapcluster.html"
     sandbox="allow-same-origin allow-scripts"
@@ -27,5 +28,13 @@ Play around with the Crash Map. You may be able to find more specific corners or
     seamless="seamless"
     frameborder="0">
 </iframe>
+*Play around with the Crash Map. You may be able to find more specific corners or areas that attract crashes.*
 
-notice that this map only shows 10000 observations, where 1000 each were randomly selected from the 10 years. 
+
+
+
+
+
+
+
+As the dataset is of such great size, some of our analysis is based solely on 10000 observations, where 1000 were selected randomly from each of the 10 years. This will be denoted with a (*).
