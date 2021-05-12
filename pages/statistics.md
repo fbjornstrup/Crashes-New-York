@@ -54,10 +54,15 @@ When looking at the tendency for the different weekdays, there is a downward goi
 The tendency for the monthly occurences of crashes is very similar in the different boroughs. Against all believe, there is actually the lowest number of occurences in the wintermonths January & February. This might be due to the fact that people drive extra carefull when there is bad weather, snow etc. The highest number of occurences on the other hand is in the summermonths and especially in July. According to different sources [1](https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867) & [2](https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867) this is due to the fact that more inexperienced drivers are on the road, more riders, cyclists and pedestrians share the roads during summertime and there is more construction work.
 
 
+# Errors 
+
+Such a big dataset will of course always contain some erros. 
+We can see from the jitterplot that there is a tendency towards a lot of the occurences being listed at 13:00, 13:10, 13:20, 13:30 and 14. This may indicate that exact time of the collision is not always written down, but there is a a tendency towards rounding up or down to 10 minutes, full or half hours. 
 
 
+Overall this implicates that the people are indeed a little bit lazy in noting down the exact time. Because purely logical speaking there should be exactly the same amount of dots for each minute.
 
-
+<img src="observations.png" width="550" height="450">
 
 
 
