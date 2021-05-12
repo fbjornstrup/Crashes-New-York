@@ -44,3 +44,7 @@ title: CrashesNY
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+
+
+notice that this map only shows 10000 observations, where 1000 each were randomly selected from the 10 years. 
