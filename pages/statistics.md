@@ -3,7 +3,6 @@ layout: misc
 title: Statistics over Time
 ---
 
-# Frequency of occurences
 
 It seems that the number of crashes has been increasing slowly up until COVID-19 as 2020 has much less collisions. So in terms of being in a car collision in NY, it seems that you are safer now than ever before. Maybe it is time for that vacation, unless something else is holding you back. 
 
