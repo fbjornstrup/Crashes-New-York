@@ -64,8 +64,16 @@ Overall this implicates that the people are indeed a little bit lazy in noting d
 
 <img src="observations.png" width="550" height="450">
 
+**Top contributions to accidents**
 
+The top causes to accidents are visualised below.
 
+Among these it is especially:
+- Driver inattention/Distraction
+- Following to closely
+- Failure to yield right-of-way
+
+<img src="Top15.png" width="550" height="450">
 
 If you are actually on the road getting from A to B, make sure to be extra careful around drivers looking at their phone. The most common reason why people are injured in car crashes in NY is because a driver of a sedan,  a station wagon or a SUV is distracted from actually driving. 
 
