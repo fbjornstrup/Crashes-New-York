@@ -16,8 +16,6 @@ Luckily the numbers of deaths from car crashes is extremely small, and is nearly
 
 **Numbers of incidents causing injuries**
 
-If you are actually on the road getting from A to B, make sure to be extra careful around drivers looking at their phone. The most common reason why people are injured in car crashes in NY is because a driver of a sedan,  a station wagon or a SUV is distracted from actually driving. 
-
 <img src="injured.jpg" width="550" height="450">
 
 
@@ -35,5 +33,14 @@ Take a look at the timeline. Being an early bird or staying up late reduce the r
 <img src="months.jpg" width="550" height="450">
 
 
+
+
+
+
+
+
+
+
+If you are actually on the road getting from A to B, make sure to be extra careful around drivers looking at their phone. The most common reason why people are injured in car crashes in NY is because a driver of a sedan,  a station wagon or a SUV is distracted from actually driving. 
 
 
