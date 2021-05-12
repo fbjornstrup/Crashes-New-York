@@ -7,6 +7,7 @@ In the following section, different information and data about vehicle colission
 
 
 **Collision by borough in the period from 2012-2020**
+
 <img src="Boroughyears.jpg" width="550" height="450">
 
 It seems that the number of crashes has been increasing slowly up until COVID-19 as 2020 has much less collisions. So in terms of being in a car collision in NY, it seems that you are safer now than ever before. Maybe it is time for that vacation, unless something else is holding you back. 
@@ -18,6 +19,7 @@ It seems that the number of crashes has been increasing slowly up until COVID-19
 
 
 **Numbers of incidents causing injuries**
+
 <img src="injured.jpg" width="550" height="450">
 
 
@@ -28,6 +30,7 @@ Luckily the numbers of deaths from car crashes is extremely small, and is nearly
 
 
 **Hourly plot of collisions**
+
 <img src="hours.jpg" width="550" height="450">
 
 
@@ -35,6 +38,7 @@ Taking a look at the timeline on an hourly basis, it can be seen that being an e
 
 
 **Weekly plot of collisions**
+
 <img src="weekdays.jpg" width="550" height="450">
 
 When looking at the tendency for the different weekdays, there is a downward going trend on thursdays and also slightly wednesdays for all of the Boroughs. So apparently people drive safer on thursdays. Who whould have tought! On the other hand Monday is the day with the highest number of crashes, what a surprise ... 
@@ -43,6 +47,7 @@ When looking at the tendency for the different weekdays, there is a downward goi
 
 
 **Monthly plot of collisions**
+
 <img src="months.jpg" width="550" height="450">
 
 
