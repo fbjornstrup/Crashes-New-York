@@ -3,6 +3,7 @@ layout: misc
 title: Statistics over Time
 ---
 
+# Frequency of occurences
 
 It seems that the number of crashes has been increasing slowly up until COVID-19 as 2020 has much less collisions. So in terms of being in a car collision in NY, it seems that you are safer now than ever before. Maybe it is time for that vacation, unless something else is holding you back. 
 
@@ -18,10 +19,12 @@ Luckily the numbers of deaths from car crashes is extremely small, and is nearly
 
 <img src="injured.jpg" width="550" height="450">
 
+# Timeline 
+
+Take a look at the timeline. Being an early bird or staying up late reduce the risk of being in a car collision. Seeing the city between 10 PM to around 9 AM is the safest time to go sightseeing in a vehicle. 
 
 **Hourly plot of collisions**
 
-Take a look at the timeline. Being an early bird or staying up late reduce the risk of being in a car collision. Seeing the city between 10 PM to around 9 AM is the safest time to go sightseeing in a vehicle. 
 
 
 <img src="hours.jpg" width="550" height="450">
