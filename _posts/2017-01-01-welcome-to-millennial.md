@@ -3,7 +3,6 @@ layout: post
 title: "Vehicles in New York City"
 author: "Frederik Bjornstrup, Benjamin Sondberg & Christian Rasmussen"
 categories: documentation
-tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
