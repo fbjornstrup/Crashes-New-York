@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-This is a post about colissions in NYC! 
+Vehicles driving down the streets of New York in rush hour.
