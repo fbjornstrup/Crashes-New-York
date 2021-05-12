@@ -64,7 +64,7 @@ Overall this implicates that the people are indeed a little bit lazy in noting d
 
 <img src="observations.png" width="550" height="450">
 
-**Top contributions to accidents**
+#Top contributions to accidents
 
 The top causes to accidents are visualised below.
 
