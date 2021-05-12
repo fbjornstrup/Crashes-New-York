@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Collisions in New York"
+title: "Vehicles driving down the streets of New York in rush hour"
 author: "Frederik Bjornstrup, Benjamin Sondberg & Christian Rasmussen"
 categories: documentation
 tags: [documentation,sample]
