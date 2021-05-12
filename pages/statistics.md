@@ -34,7 +34,7 @@ Luckily the numbers of deaths from car crashes is extremely small, and is nearly
 <img src="hours.jpg" width="550" height="450">
 
 
-Taking a look at the timeline on an hourly basis, it can be seen that being an early bird or staying up late reduces the risk of being in a car collision. This is due to the fact that most of the crashes happen between 10 AM and 7 PM. On the other hand, the city seems to be safest between 10 PM and 9 AM if you are driving a vehicle. This trend is shown for all of the Boroughs, altough the number of occurences vary a lot. 
+Taking a look at the timeline on an hourly basis, it can be seen that being an early bird or staying up late reduces the risk of being in a car collision. This is due to the fact that most of the crashes happen between 10 AM and 7 PM. This makes sense at there is the most traffic and number of cars on the road in the period. On the other hand, the city seems to be safest between 10 PM and 9 AM if you are driving a vehicle. This trend is shown for all of the Boroughs, altough the number of occurences vary a lot. 
 
 
 **Weekly plot of collisions**
