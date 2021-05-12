@@ -6,7 +6,7 @@ title: Statistics over Time
 
 It seems that the number of crashes has been increasing slowly up until COVID-19 as 2020 has much less collisions. So in terms of being in a car collision in NY, it seems that you are safer now than ever before. Maybe it is time for that vacation, unless something else is holding you back. 
 
-**Collision by borough 2012-2020**
+**Collision by borough in the period from 2012-2020**
 
 <img src="Boroughyears.jpg" width="550" height="450">
 
@@ -37,7 +37,7 @@ When looking at the tendency for the different weekdays, there is a downward goi
 
 
 
-The tendency for the monthly occurences of crashes is very similar in the different boroughs. Against all believe, there is actually the lowest number of occurences in the wintermonths January & February. This might be due to the fact that people drive extra carefull when there is bad weather, snow etc. The highest number of occurences on the other hand is in July month. 
+The tendency for the monthly occurences of crashes is very similar in the different boroughs. Against all believe, there is actually the lowest number of occurences in the wintermonths January & February. This might be due to the fact that people drive extra carefull when there is bad weather, snow etc. The highest number of occurences on the other hand is in the summermonths and especially in July. 
 
 
 **Monthly plot of collisions**
@@ -48,7 +48,7 @@ The tendency for the monthly occurences of crashes is very similar in the differ
 
 
 
-
+https://www.hg.org/legal-articles/car-accidents-more-likely-during-summer-40867
 
 
 
