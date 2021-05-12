@@ -20,7 +20,7 @@ Luckily the numbers of deaths from car crashes is extremely small, and is nearly
 
 # Timeline 
 
-Taking a look at the timeline on an hourly basis, it can be seen that being an early bird or staying up late reduces the risk of being in a car collision. This is due to the fact that most of the crashes happen between 10 AM and 7 PM. On the other hand, the city seems to be safest between 10 PM and 9 AM if you are driving a vehicle. 
+Taking a look at the timeline on an hourly basis, it can be seen that being an early bird or staying up late reduces the risk of being in a car collision. This is due to the fact that most of the crashes happen between 10 AM and 7 PM. On the other hand, the city seems to be safest between 10 PM and 9 AM if you are driving a vehicle. This trend is shown for all of the Boroughs, altough the number of occurences vary a lot. 
 
 **Hourly plot of collisions**
 
@@ -29,8 +29,18 @@ Taking a look at the timeline on an hourly basis, it can be seen that being an e
 <img src="hours.jpg" width="550" height="450">
 
 
+When looking at the tendency for the different weekdays, there is a downward going trend on thursdays and also slightly wednesdays for all of the Boroughs. So apparently people drive safer on thursdays. Who whould have tought! On the other hand Monday is the day with the highest number of crashes, what a surprise ... 
+
+
+**Weekly plot of collisions**
 <img src="weekdays.jpg" width="550" height="450">
 
+
+
+The tendency for the monthly occurences of crashes is very similar in the different boroughs. Against all believe, there is actually the lowest number of occurences in the wintermonths January & February. This might be due to the fact that people drive extra carefull when there is bad weather, snow etc. The highest number of occurences on the other hand is in July month. 
+
+
+**Monthly plot of collisions**
 
 <img src="months.jpg" width="550" height="450">
 
