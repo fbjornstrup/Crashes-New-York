@@ -2,11 +2,17 @@
 layout: misc
 title: Statistics over Time
 ---
-**Collision by borough 2012-2020**
+
 
 It seems that the number of crashes has been increasing slowly up until COVID-19 as 2020 has much less collisions. So in terms of being in a car collision in NY, it seems that you are safer now than ever before. Maybe it is time for that vacation, unless something else is holding you back. 
 
+**Collision by borough 2012-2020**
+
 <img src="Boroughyears.jpg" width="550" height="450">
+
+
+
+Luckily the numbers of deaths from car crashes is extremely small, and is nearly insignificant compared to the total amount of crashes happening. This is probably due to the relative slow pays that people are driving at in New York. However serious and lifelong lasting injuries may still occur.  
 
 **Numbers of incidents causing injuries**
 
@@ -14,7 +20,6 @@ If you are actually on the road getting from A to B, make sure to be extra caref
 
 <img src="injured.jpg" width="550" height="450">
 
-Obs: data from 2021 not included in the first two plots 
 
 **Hourly plot of collisions**
 
@@ -28,3 +33,34 @@ Take a look at the timeline. Being an early bird or staying up late reduce the r
 
 
 <img src="months.jpg" width="550" height="450">
+
+
+
+
+
+import React, { Component } from "react";
+import { render } from "react-dom";
+import ParticlesBg from "particles-bg";
+import SignIn from "./SignIn";
+import "./style.css";
+
+class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      name: "React"
+    };
+  }
+
+  render() {
+    return (
+      <div>
+        <SignIn/>
+        <ParticlesBg type="random" bg={true}/>
+      </div>
+    );
+  }
+}
+
+render(<App />, document.getElementById("root"));
+
