@@ -27,3 +27,5 @@ Play around with the Crash Map. You may be able to find more specific corners or
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+notice that this map only shows 10000 observations, where 1000 each were randomly selected from the 10 years. 
