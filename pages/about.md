@@ -2,9 +2,14 @@
 layout: misc
 title: About
 ---
+The dataset used trough out our analysis was found og the following [website](https://www.kaggle.com/new-york-city/nypd-motor-vehicle-collisions). It contains details on different vehicle crashes trough out New York, where each row represents a crash.
+It consistens of 1771638 rows and 29 attributes. Some of the most iclude: 
+- `CRASH DATE`
+- `CRASH TIME`
+- `BOROUGH`
+- `ZIPCODE`
+- `LOCATION`
+- `NUMBER OF PERSONS INJURED`
+- `CONTRIBUTING FACTOR VEHICLE 1`
 
-Information about the dataset and other
-
-
-
-#Man kunne feks skrive at når vi har en stjerne i startet af plottet, så betyder det at vi kun har brugt 10000 observationer
+As the dataset is of such great size, some of our analysis is based solely on 10000 observations, where 1000 were selected randomly from each of the 10 years.
