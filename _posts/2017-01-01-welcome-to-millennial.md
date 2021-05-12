@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vehicles in New York"
+title: "Vehicles in New York City"
 author: "Frederik Bjornstrup, Benjamin Sondberg & Christian Rasmussen"
 categories: documentation
 tags: [documentation,sample]
