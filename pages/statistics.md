@@ -21,7 +21,7 @@ Luckily the numbers of deaths from car crashes is extremely small, and is nearly
 
 # Timeline 
 
-Take a look at the timeline. Being an early bird or staying up late reduce the risk of being in a car collision. Seeing the city between 10 PM to around 9 AM is the safest time to go sightseeing in a vehicle. 
+Taking a look at the timeline on an hourly basis, it can be seen that being an early bird or staying up late reduces the risk of being in a car collision. This is due to the fact that most of the crashes happen between 10 AM and 7 PM. On the other hand, the city seems to be safest between 10 PM and 9 AM if you are driving a vehicle. 
 
 **Hourly plot of collisions**
 
