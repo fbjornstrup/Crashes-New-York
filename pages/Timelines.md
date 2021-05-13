@@ -7,7 +7,6 @@ The following section wants to give a better overview of the time of occurence o
 
 # Hourly occurences
 
-**Hourly plot of collisions**
 
 <img src="hours.jpg" width="550" height="450">
 
@@ -26,7 +25,6 @@ Taking a look at the timeline on an hourly basis, it can be seen that being an e
 
 # Weekly occurences
 
-**Weekly plot of collisions**
 
 <img src="weekdays.jpg" width="550" height="450">
 
@@ -46,7 +44,6 @@ When looking at the tendency for the different weekdays, there is a downward goi
 
 # Monthly occurences
 
-**Monthly plot of collisions**
 
 <img src="months.jpg" width="550" height="450">
 
