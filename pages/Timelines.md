@@ -3,6 +3,10 @@ layout: misc
 title: Timeline
 ---
 
+The following section wants to give a better overview of the time of occurence of the vehicle collisions. This includes visualising the collissions on an hourly, weekly and monthly basis
+
+# Hourly occurences
+
 **Hourly plot of collisions**
 
 <img src="hours.jpg" width="550" height="450">
@@ -20,7 +24,7 @@ Taking a look at the timeline on an hourly basis, it can be seen that being an e
     frameborder="0">
 </iframe>
 
-
+# Weekly occurences
 
 **Weekly plot of collisions**
 
@@ -40,7 +44,7 @@ When looking at the tendency for the different weekdays, there is a downward goi
 </iframe>
 
 
-
+# Monthly occurences
 
 **Monthly plot of collisions**
 
