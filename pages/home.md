@@ -6,7 +6,7 @@ title: Home
 The following website wants to tell a story about vehicle collissions happening in New York City from 2012 up until now. Hopefully it will give you a further insigt into the serious problem that this contributes to, as well as which area's to avoid and how to behave in traffic. 
 
 
-The following video illustrates the severity of car crashes in the different Boroughs of New York, as it shows the amount of crashes that has happened over the past 10 years. 
+The following GIF illustrates the severity of car crashes in the different Boroughs of New York, as it shows the amount of crashes that have happened over the past 10 years. 
 
 **Illustration of numbers of crashes in the different Boroughs in New York:**
 
