@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: 
+title: Timeline
 ---
 
 The following section wants to give a better overview of the time of occurence of the vehicle collisions. This includes visualising the collissions on an hourly, weekly and monthly basis
