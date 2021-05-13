@@ -10,8 +10,14 @@ The following GIF illustrates the severity of car crashes in the different Borou
 
 **Illustration of numbers of crashes in the different Boroughs in New York:**
 
-
-![New York Boroughs](ny2.gif)
+<iframe src="communities_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 *Watch out in Queens, as they rank highest in number of crashes! Consider going to Staten Island, for a more relaxed environment.*
 
