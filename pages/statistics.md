@@ -18,7 +18,7 @@ It seems that the number of crashes has been increasing slowly up until COVID-19
 
 
 
-**Numbers of incidents causing injuries**
+**Numbers of serious incidents**
 
 <img src="injured.jpg" width="550" height="450">
 
