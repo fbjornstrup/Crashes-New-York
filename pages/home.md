@@ -37,4 +37,4 @@ To begin the story have a look at the following map(*) and try the interactive f
 
 
 
-As the dataset is of such great size, some of our analysis is based solely on 10000 observations, where 1000 were selected randomly from each of the 10 years. This will be denoted with a (*).
+As the dataset is of such great size, some of our analysis is based solely on 10000 observations, where 1000 observations were selected randomly from each of the 10 years. This is denoted with a (*).
