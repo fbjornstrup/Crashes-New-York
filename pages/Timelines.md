@@ -30,6 +30,18 @@ When looking at the tendency for the different weekdays, there is a downward goi
 
 
 
+<iframe src="map_weekly.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
+
+
 **Monthly plot of collisions**
 
 <img src="months.jpg" width="550" height="450">
