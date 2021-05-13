@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
 - {name: 'Data Analysis', folder: 'pages', file: 'statistics.html'}
-- {name: 'Timeline', folder: 'pages', file: 'heatmaps.html'}
+- {name: 'Timeline', folder: 'pages', file: 'timelines.html'}
 - {name: 'Predictive Model', folder: 'pages', file: 'machinelearning.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
