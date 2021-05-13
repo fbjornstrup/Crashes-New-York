@@ -2,11 +2,11 @@
 layout: misc
 title: Statistics over Time
 ---
-In the following section, different information and data about vehicle colissions in New York will be visualized using bar plot, graphs and other tools.
+In the following section, different information and data about vehicle colissions in New York City will be visualized using bar plot, graphs and other tools.
 
 
 
-**Collision by borough in the period from 2012-2020**
+**Collision by boroughs in the period from 2012-2020**
 
 <img src="Boroughyears.jpg" width="550" height="450">
 
