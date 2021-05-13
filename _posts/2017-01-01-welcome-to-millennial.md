@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vehicles in New York City"
+title: "Rush hour in New York City"
 author: "Frederik Bjornstrup, Benjamin Sondberg & Christian Rasmussen"
 categories: documentation
 image: cuba-1.jpg
