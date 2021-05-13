@@ -13,7 +13,7 @@ The following GIF illustrates the severity of car crashes in the different Borou
 
 ![New York Boroughs](ny2.gif)
 
-*Watch out in Queens, as they rank highest in number of crashes! Consider going to Bronx, for a more relaxed environment.*
+*Watch out in Queens, as they rank highest in number of crashes! Consider going to Staten Island, for a more relaxed environment.*
 
 To begin the story have a look at the following map(*) and try the interactive functions along the way to achieve the best possible experience of the story. Hopefully you will soon have a better idea of where to go if you want to avoid a collision in New York.
 
