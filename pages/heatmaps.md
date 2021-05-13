@@ -1,10 +1,7 @@
 ---
 layout: misc
-title: CrashesNY
+title: Timeline
 ---
-
-# Timeline 
-
 
 **Hourly plot of collisions**
 
