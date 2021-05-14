@@ -10,7 +10,7 @@ Below is two different plots. The first one shows feature importance of the mot 
 <img src="Feature importance_normal.png" width="550" height="450">
 
 
-So you should not drive... and
+So you should not drive a bike in the city, and really take into consideration when you move around in the traffic. 
 
 The next one is basically the same, but this time it is with different weather measures as well. This makes some changes to which features are important, so consider these as well. 
 
