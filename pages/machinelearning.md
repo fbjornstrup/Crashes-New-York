@@ -3,9 +3,9 @@ layout: misc
 title: Machine Learning Model
 ---
 
-As the last section, we will take a look at a Machine Learning model called a Random Forest Classifier. The purpose of this is to let the model predict whether or not a collision results in an injury or not. The model uses the same data set as everything you have seen so far.
+In this section, we will take a look at a Machine Learning model called a Random Forest Classifier. The purpose of this is to let the model predict whether or not a collision results in an injury or not. The model uses the same data set with the 10000 observations.
 
-Below is two different plots. The first one shows feature importance of the mot important feature, meaning the model has chosen these features as the most impactful when deciding whether a collision is severe or not. So look out for these yourselves!
+Below are two different plots. The first one shows feature importance of the most important feature, meaning the model has chosen these features as the most impactful when deciding whether a collision is severe or not. So look out for these yourselves!
 
 <img src="Feature importance_normal.png" width="550" height="450">
 
@@ -16,7 +16,7 @@ The next one is basically the same, but this time it is with different weather m
 
 <img src="Feature importance_weather.png" width="550" height="450">
 
-You can clearly see the weather has an impact on traffic collisions. Make sure that you are out on a sunny and wind-calm day as this contribute to weather there will be a severe accident or not. Also the temperature is important, and let us just agree that there is no reason to take a bike around New York City.
+You can clearly see the weather has an impact on traffic collisions. Make sure that you are out on a sunny and wind-calm day as this contributes to weather there will be a severe accident or not. Also the temperature is important, and let's just agree that there is no reason to take a bike around New York City.
 
 
 Overall the Machine Learning model agrees with our earlier analysis, so take this information with you when you go to New York. It may make a difference on how well your trip is going to be.
