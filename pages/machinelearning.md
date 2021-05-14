@@ -17,3 +17,6 @@ The next one is basically the same, but this time it is with different weather m
 <img src="Feature importance_weather.png" width="550" height="450">
 
 You can clearly see the weather has an impact on traffic collisions. Make sure that you are out on a sunny and wind-calm day as this contribute to weather there will be a severe accident or not. Also the temperature is important, and let us just agree that there is no reason to take a bike around New York City.
+
+
+Overall the Machine Learning model agrees with our earlier analysis, so take this information with you when you go to New York. It may make a difference on how well your trip is going to be.
