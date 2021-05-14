@@ -5,7 +5,7 @@ title: Machine Learning Model
 
 In this section, we will take a look at a Machine Learning model called a Random Forest Classifier. The purpose of this is to let the model predict whether or not a collision results in an injury or not. The model uses the same data set with the 10000 observations.
 
-Below are two different plots. The first one shows feature importance of the most important feature, meaning the model has chosen these features as the most impactful when deciding whether a collision is severe or not. So look out for these yourselves!
+Below are two different plots. The first one shows feature importance of the most important feature, meaning the model has chosen these features as the most impactful when deciding whether a collision is severe or not. So look out for these!
 
 <img src="Feature importance_normal.png" width="550" height="450">
 
