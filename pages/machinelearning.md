@@ -24,7 +24,7 @@ As some of the features might be difficult to understand, the most difficult one
 - `PRCP`: Precipitation
 - `AWND`: Average Wind Speed
 
-You can clearly see the weather has an impact on traffic collisions. Make sure that you check the weather forecast as this contributes to whether there will be a severe accident or not. Also the temperature is important, and let's just agree that there is no reason to take a bike around New York City.
+It is clear to see that the weather has an impact on traffic collisions. Make sure that you check the weather forecast as this contributes to whether there will be a severe accident or not. Also the temperature is important, and let's just agree that there is no reason to take a bike around New York City.
 
 
 Overall the Machine Learning model agrees with our earlier analysis, so take this information with you when you go to New York. It may make a difference on how well your trip is going to be.
