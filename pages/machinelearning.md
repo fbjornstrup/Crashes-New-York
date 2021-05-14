@@ -16,6 +16,14 @@ The next one is basically the same, but this time it is with different weather m
 
 <img src="Feature importance_weather.png" width="550" height="450">
 
+As some of the features might be difficult to understand, they ar explained below:
+
+- `WSF5`: Windspeed Fastes Five Seconds
+- `TMIN`: Minimum Temperature
+- `TMAX`: Maximum Temperature
+- `PRCP`: Precipitation
+- `AWND`: Average Wind Speed
+
 You can clearly see the weather has an impact on traffic collisions. Make sure that you check the weather forecast as this contributes to whether there will be a severe accident or not. Also the temperature is important, and let's just agree that there is no reason to take a bike around New York City.
 
 
