@@ -7,13 +7,13 @@ As the last section, we will take a look at a Machine Learning model called a Ra
 
 Below is two different plots. The first one shows feature importance of the mot important feature, meaning the model has chosen these features as the most impactful when deciding whether a collision is severe or not. So look out for these yourselves!
 
-<img src="Feature importance_normal.jpg" width="550" height="450">
+<img src="Feature importance_normal.png" width="550" height="450">
 
 
 So you should not drive... and
 
 The next one is basically the same, but this time it is with different weather measures as well. This makes some changes to which features are important, so consider these as well. 
 
-<img src="Feature importance_weather.jpg" width="550" height="450">
+<img src="Feature importance_weather.png" width="550" height="450">
 
 
