@@ -16,7 +16,7 @@ The next one is basically the same, but this time it is with different weather m
 
 <img src="Feature importance_weather.png" width="550" height="450">
 
-As some of the features might be difficult to understand, the most difficult ones are explained below:
+As some of the features might be difficult to understand, some of them are explained below:
 
 - `WSF5`: Windspeed Fastes Five Seconds
 - `TMIN`: Minimum Temperature
