@@ -19,7 +19,7 @@ As the dataset is of such great size, some of our analysis is based solely on 10
 
 Such a big dataset will of course always contain some erros, which sometimes can be worked around and sometimes you just have to live with it. This is an example of New Yorks finest being not so fine.
 
-The jitterplot shows at what time the different crashes have happened, or at least at what time they are registrered. 
+The jitterplot(*) shows at what time the different crashes have happened, or at least at what time they are registrered. 
 
 <img src="observations.png" width="550" height="450">
 
