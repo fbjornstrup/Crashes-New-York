@@ -16,4 +16,4 @@ The next one is basically the same, but this time it is with different weather m
 
 <img src="Feature importance_weather.png" width="550" height="450">
 
-
+You can clearly see the weather has an impact on traffic collisions. Make sure that you are out on a sunny and wind-calm day as this contribute to weather there will be a severe accident or not. 
