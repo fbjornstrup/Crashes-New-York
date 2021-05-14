@@ -49,16 +49,6 @@ Furthermore, it is not only important to stay away of distracted drivers but the
 New York is quite famous for their yellow Taxis but statistics show that being in a car crash while driving Taxi in New York has the highest risk of 0.30.
 This is shown in the table below where the risk of being injured is calculated for the 5 vehicle types causing the most crashes.
 
-# Errors 
 
-Such a big dataset will of course always contain some erros. 
-The jitterplot shows at what time the different crashes have happened, or at least at what time they are registrered. 
-
-<img src="observations.png" width="550" height="450">
-
-It is clear that there is a tendency towards a lot of the occurences being listed at 13:00, 13:10, 13:20, 13:30 and 14. This may indicate that exact time of the collision is not always written down, but that it is rounded up or down to 10 minutes, full or half hours. 
-
-
-Overall this implicates that the people are indeed a little bit lazy in noting down the exact time. Because purely logical speaking there should be exactly the same amount of dots for each minute.
 
 
