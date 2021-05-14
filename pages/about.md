@@ -26,3 +26,9 @@ The jitterplot(*) shows at what time the different crashes have happened, or at 
 It is clear that there is a tendency towards a lot of the occurences being listed at 13:00, 13:10, 13:20, 13:30 and 14. This may indicate that the exact time of the collision is not always written down, but that it is rounded up or down to 10 minutes, full or half hours. 
 
 Overall this is a human error and tells us that the police are indeed a little bit lazy in noting down the exact time.
+
+
+
+# Notebook
+
+A link to our notebook can be found [here](https://nbviewer.jupyter.org/github/fbjornstrup/Crashes-New-York/blob/gh-pages/FinalNotebook1.ipynb) 
