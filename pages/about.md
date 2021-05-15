@@ -31,8 +31,5 @@ Overall this is a human error and tells us that the police are indeed a little b
 
 # Notebook
 
-A link to our notebook can be found [here](https://nbviewer.jupyter.org/github/fbjornstrup/Crashes-New-York/blob/gh-pages/FinalNotebook1.ipynb) 
-
-
-[here](https://github.com/fbjornstrup/Crashes-New-York/blob/gh-pages/FinalNotebookFinal.ipynb) 
+A link to our notebook can be found [here](https://nbviewer.jupyter.org/github/fbjornstrup/Crashes-New-York/blob/gh-pages/pages/FinalNotebookFinal.ipynb).
 
